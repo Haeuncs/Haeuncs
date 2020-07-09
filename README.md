@@ -9,15 +9,16 @@
 </div>
 
 
-#### 👀Ask me about
+## 👀Ask me about
 iOS, Swift
 
 
-#### 🧐Fun Fact 
+## 🧐Fun Fact 
 I like open world games like Assassin's Creed, GTA, fallout. and I play these in easy mode 😳.
 
 I'm currently waiting for the launch of Cyber Punk 2077 and Assassin's Creed Valhalla.
 
+I like SF movies. Among them, I like District 9 and Interstellar. Especially, I watched Interstellar so much that I memorized the script. 🚀
 
 <!--
 **Haeuncs/Haeuncs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
