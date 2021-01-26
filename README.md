@@ -1,4 +1,6 @@
-# 안녕하시렵니까. 이 페이지 주인장올시다.
+# 안녕하시렵니까. 이 페이지 주인장올시다. 🌹
+
+[방명록 바로가기](https://haeuncs.github.io/GuestBook)
 
 *I'm Haeun Lee who is passionate about building products. I'm not focusing on side projects right now, but I LOVE side projects.*
 
