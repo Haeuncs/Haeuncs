@@ -9,7 +9,7 @@
 <div align="center">
     <img src="http://hits.dwyl.com/haeuncs/Haeuncs/Haeuncs.svg" >
     <img src="https://img.shields.io/badge/HP-100-red">
-    <img src="https://img.shields.io/badge/Age-25-ff69b4">
+    <img src="https://img.shields.io/badge/Age-27-ff69b4">
     <img src="https://img.shields.io/badge/Language-Swift-orange">
 </div>
 
